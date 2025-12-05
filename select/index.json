@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ミライ",
+  "base_artist": "Vivid BAD SQUAD",
+  "createdAt": "2025-12-05T14:27:59.230273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミライ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/01_ミライ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ",
+      "has_synced": true,
+      "path": "select/02_ミライ_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/03_ミライ_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/04_ミライ_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/05_ミライ_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミライ☆シュート",
+      "artist": "三沢真帆(井口裕香)",
+      "has_synced": false,
+      "path": "select/06_ミライ☆シュート_三沢真帆(井口裕香).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ミライ☆シュート",
+      "artist": "三沢真帆 (井口裕香)",
+      "has_synced": false,
+      "path": "select/07_ミライ☆シュート_三沢真帆_(井口裕香).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/08_ミライ_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ユメ+ミライ=無限大",
+      "artist": "Aqours",
+      "has_synced": true,
+      "path": "select/09_ユメ+ミライ=無限大_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/10_ミライ_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "疾走れ!ミライ",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/11_疾走れ!ミライ_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ミライ*ガール",
+      "artist": "天誅ガールズ",
+      "has_synced": true,
+      "path": "select/12_ミライ_ガール_天誅ガールズ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "疾走れ!ミライ",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/13_疾走れ!ミライ_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミライ☆チャレンジ",
+      "artist": "奈々菜パル子(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/14_ミライ☆チャレンジ_奈々菜パル子(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/15_ミライ_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ミライ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/16_ミライ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "カコ→イマ→ミライ→?",
+      "artist": "熊田茜音",
+      "has_synced": true,
+      "path": "select/17_カコ→イマ→ミライ→_熊田茜音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミライ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": false,
+      "path": "select/pl_01_ミライ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&巡音ルカ)_Vivid_BAD_SQUAD.txt"
+    }
+  ]
+}
